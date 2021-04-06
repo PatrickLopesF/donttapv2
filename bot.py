@@ -4,10 +4,10 @@ import keyboard
 
 
 
-timeout = 35
+timeout = 40
 timeout_start = time.time()
 
-time.sleep(3)
+time.sleep(2)
 
 while keyboard.is_pressed('w') == False:
     while time.time() < timeout_start + timeout:
