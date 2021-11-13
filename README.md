@@ -1,4 +1,4 @@
-# donttapv2
+# donttapv2 bot inproved
 Fork of : https://github.com/PatrickLopesF/donttapv2
 
 WORK IN PROGRESS! DO NOT USE!
